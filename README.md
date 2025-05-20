@@ -48,5 +48,5 @@ _Nothing Person_
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=username-anda&color=blueviolet" alt="Profile views" />
-  <p>💖 Terima kasih telah mengunjungi profil saya! Enjoy our Life <p>
+  <p>💖 Terima kasih telah mengunjungi profil saya! Enjoy Your Life <p>
 </div>
