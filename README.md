@@ -1,4 +1,4 @@
-## 👋 Hello <coders>, I'm Adri Maulana!
+# 👋 Hello <coders>, I'm Adri Maulana!
 <div align="center">
   <img src= "">
 </div>
@@ -10,7 +10,7 @@ Mahasiswa Teknik Informatika di **Universitas Pamulang**. Saya tertarik pada _Ba
 </div>
 
 ## 🚀 Proyek & Portofolio
-  # Still On Progress 🚀🚀🚀
+  ### Still On Progress 🚀🚀🚀
 
 ## 💻 Keahlian Teknis
 <div align="center">
