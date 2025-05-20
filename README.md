@@ -4,7 +4,7 @@
 </div>
 
 ## 🎓 Tentang Saya
-Mahasiswa Teknik Informatika di **Universitas Pamulang**. Saya tertarik pada _Backend Developers_, _Cyber Security_, dan _Blockchain Developers_. Saat ini saya sedang mempelajari Semua Bahasa XD.
+Saya tertarik pada _Backend Developers_, _Cyber Security_, dan _Blockchain Developers_. Saat ini saya sedang mempelajari Semua Bahasa XD.
 <div align="center">
 
 </div>
