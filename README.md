@@ -1,14 +1,12 @@
 ## 👋 Hello <coders>, I'm Adri Maulana!
 <div align="center">
-  <img src="https://api.placeholder.com/800/300" alt="banner">
+  <img src= "">
 </div>
 
 ## 🎓 Tentang Saya
 Mahasiswa Teknik Informatika di **Universitas Pamulang**. Saya tertarik pada _Backend Developers_, _Cyber Security_, dan _Blockchain Developers_. Saat ini saya sedang mempelajari Semua Bahasa XD.
 <div align="center">
-Show Image
-Show Image
-Show Image
+
 </div>
 
 ## 🚀 Proyek & Portofolio
@@ -16,10 +14,21 @@ Show Image
 
 ## 💻 Keahlian Teknis
 <div align="center">
-![Python Badge](https://img.shields.io/badge/python-367090-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+</p>
 </div>
-📊 Statistik GitHub
-<div align="center">
+
+## 📊 Statistik GitHub
+<div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=username-anda&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-anda&theme=radical" alt="GitHub Streak" />
 </div>
