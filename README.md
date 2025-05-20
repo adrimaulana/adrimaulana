@@ -13,15 +13,15 @@ Mahasiswa Teknik Informatika di **Universitas Pamulang**. Saya tertarik pada _Ba
   ### Still On Progress 🚀🚀🚀
 
 ## 💻 Keahlian Teknis
-<div align="center">
+<div align="justify">
 <p>
- -  <a href="https://www.java.com/">
+   <a href="https://www.java.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
--   <a href="https://www.python.org/">
+   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
- -  <a href="https://reactjs.org/">
+   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
